@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Badza
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning css 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning html/css/js/react
+- 📫 How to reach me giobadza666@gmail.com
 
 <!---
 Badza1/Badza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
